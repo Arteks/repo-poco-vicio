@@ -52,7 +52,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1745637590044
+  installedAtTime: 1745787478668
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -61,9 +61,9 @@
   versionNumber:
     major: 2
     minor: 4
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\cache\nickklmao-MenuLib\2.4.0\icon.png
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\cache\nickklmao-MenuLib\2.4.1\icon.png
 - manifestVersion: 1
   name: DiabolicalStudios-WidescreenSupport
   authorName: DiabolicalStudios
@@ -87,3 +87,208 @@
     patch: 0
   enabled: true
   icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\DiabolicalStudios-WidescreenSupport\icon.png
+- manifestVersion: 1
+  name: YMC_MHZ-MoreHead
+  authorName: YMC_MHZ
+  websiteUrl: https://thunderstore.io/c/repo/p/YMC_MHZ/MoreHead/
+  displayName: MoreHead
+  description: Customizable cosmetics. 简单好玩的装饰模组，提供unitypackage，供玩家自行导入模型。
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745787379300
+  loaders: []
+  dependencies:
+    - nickklmao-MenuLib-2.3.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 11
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\YMC_MHZ-MoreHead\icon.png
+- manifestVersion: 1
+  name: GalaxyMods-MoreShopItems
+  authorName: GalaxyMods
+  websiteUrl: https://thunderstore.io/c/repo/p/GalaxyMods/MoreShopItems/
+  displayName: MoreShopItems
+  description: The store now carries more items on the shelves!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745787391054
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-1.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 3
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\GalaxyMods-MoreShopItems\icon.png
+- manifestVersion: 1
+  name: Zehs-REPOLib
+  authorName: Zehs
+  websiteUrl: https://thunderstore.io/c/repo/p/Zehs/REPOLib/
+  displayName: REPOLib
+  description: Library for adding content to R.E.P.O.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745787391090
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\Zehs-REPOLib\icon.png
+- manifestVersion: 1
+  name: AriIcedT-MinecraftStrongholdLevel
+  authorName: AriIcedT
+  websiteUrl: https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/
+  displayName: MinecraftStrongholdLevel
+  description: A custom minecraft stronghold map based on the in game minecraft
+    generation, still in early beta.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745787401590
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 6
+    patch: 1
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\AriIcedT-MinecraftStrongholdLevel\icon.png
+- manifestVersion: 1
+  name: Lazarus-BetterTruckHeals
+  authorName: Lazarus
+  websiteUrl: https://thunderstore.io/c/repo/p/Lazarus/BetterTruckHeals/
+  displayName: BetterTruckHeals
+  description: Increases the truck heal to 50 instead of 25 and has a fully
+    configurable amount!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745787412979
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-REPOConfig-1.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\Lazarus-BetterTruckHeals\icon.png
+- manifestVersion: 1
+  name: nickklmao-REPOConfig
+  authorName: nickklmao
+  websiteUrl: https://thunderstore.io/c/repo/p/nickklmao/REPOConfig/
+  displayName: REPOConfig
+  description: Edit mod configs in-game!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745787413012
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-MenuLib-2.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\nickklmao-REPOConfig\icon.png
+- manifestVersion: 1
+  name: Patrick-MapVote
+  authorName: Patrick
+  websiteUrl: https://thunderstore.io/c/repo/p/Patrick/MapVote/
+  displayName: MapVote
+  description: Allows you and your friends to vote for the next map to play!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745787419359
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-MenuLib-2.2.0
+    - Zehs-REPOLib-2.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\Patrick-MapVote\icon.png
+- manifestVersion: 1
+  name: OpJosMods-IAmDucky
+  authorName: OpJosMods
+  websiteUrl: https://thunderstore.io/c/repo/p/OpJosMods/IAmDucky/
+  displayName: IAmDucky
+  description: walk around as a duck when you die
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745787436553
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\OpJosMods-IAmDucky\icon.png
+- manifestVersion: 1
+  name: BlueAmulet-REPO_HD
+  authorName: BlueAmulet
+  websiteUrl: https://thunderstore.io/c/repo/p/BlueAmulet/REPO_HD/
+  displayName: REPO_HD
+  description: Removes the pixelation effect entirely
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745787464401
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\BlueAmulet-REPO_HD\icon.png
