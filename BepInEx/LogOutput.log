@@ -1,0 +1,132 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - REPO (1/4/2025 7:57:56 p. m.)
+[Info   :   BepInEx] Running under Unity v2022.3.21.12519882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [wideScreenSupport 1.0.5]
+[Info   :wideScreenSupport] wideScreenSupport is loaded!
+[Info   :   BepInEx] Loading [Minimap 1.1.3]
+[Info   :   Minimap] Plugin Minimap is loaded!
+[Info   :   BepInEx] Loading [Menu Lib 2.4.0]
+[Debug  :  Menu Lib] Hooking `MenuPageMain.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageSettings.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageColor.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageEsc.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageLobby.Start`
+[Debug  :  Menu Lib] Hooking `SemiFunc.UIMouseHover`
+[Debug  :  Menu Lib] Hooking `MenuPage.StateClosing`
+[Debug  :  Menu Lib] Hooking `MenuScrollBox.Update`
+[Debug  :  Menu Lib] Hooking `ChatManager.StateInactive`
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+[Info   : Unity Log] Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+[Info   : Unity Log] VERSION: v0.1.2
+[Info   : Unity Log] STEAM ID: 76561198434412446
+[Info   : Unity Log] Getting Steam Auth Ticket...
+[Info   : Unity Log] Changed level to: Level - Lobby Menu
+[Info   : Unity Log] PunVoiceClientLogic Awake
+[Info   : Unity Log] Created lobby on Network Connect.
+[Info   : Unity Log] Steam: Hosting lobby...
+[Info   : Unity Log] Steam: Lobby created with ID: 109775241323120658
+[Info   : Unity Log] Steam: Lobby entered with ID: 109775241323120658
+[Info   : Unity Log] Steam: Region: 
+[Info   : Unity Log] Sending Steam Auth Ticket...
+[Info   : Unity Log] Getting Steam Auth Ticket...
+[Info   : Unity Log] Connected to Master Server
+[Info   : Unity Log] I am the owner.
+[Info   : Unity Log] Steam: Setting lobby data...
+[Info   : Unity Log] Trying to join room: 109775241323120658
+[Info   : Unity Log] Created room successfully: 109775241323120658
+[Info   : Unity Log] Joined room: 109775241323120658 sa
+[Info   : Unity Log] Game Mode: Multiplayer
+[Info   : Unity Log] NetworkConnect destroyed.
+[Info   : Unity Log] [2025-04-26T03:20:21] [Info] [LOGGER] [VoiceLogger] Disabling VoiceLogger duplicates at the scene root.
+[Warning: Unity Log] [2025-04-26T03:20:21] [Warning] [PhotonVoiceView] [Voice(Clone)] PhotonVoiceView.RecorderInUse.TransmitEnabled is false, don't forget to set it to true to enable transmission.
+[Info   : Unity Log] Calling OpJoinOrCreateRoom for room name '109775241323120658_voice_' region sa.
+[Info   : Unity Log] Steam: Unlocking lobby...
+[Warning: Unity Log] [2025-04-26T03:20:26] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #1 of not inited player 1
+[Info   : Unity Log] Steam: Lobby member joined: ClirkRendalf
+[Warning: Unity Log] [2025-04-26T03:20:43] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #1 of not inited player 2
+[Info   : Unity Log] Steam: Lobby member joined: Obikenwanobi
+[Warning: Unity Log] [2025-04-26T03:21:19] [Warning] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Frame event for voice #1 of not inited player 3
+[Info   : Unity Log] Steam: Locking lobby...
+[Info   : Unity Log] Changed level to: Level - Arctic
+[Info   : Unity Log] Changed level to: Level - Shop
+[Info   : Unity Log] Changed level to: Level - Lobby
+[Warning: Unity Log] Received RPC "GrabLinkRPC" for viewID 144 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "GrabPointSyncRPC" for viewID 144 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Info   : Unity Log] Changed level to: Level - Manor
+[Info   : Unity Log] Changed level to: Level - Shop
+[Info   : Unity Log] Changed level to: Level - Lobby
+[Warning: Unity Log] Received RPC "GrabLinkRPC" for viewID 323 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "GrabPointSyncRPC" for viewID 323 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "GrabLinkRPC" for viewID 321 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'Obikenwanobi' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "GrabPointSyncRPC" for viewID 321 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'Obikenwanobi' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "ToggleItemRPC" for viewID 320 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'Obikenwanobi' Maybe GO was destroyed but RPC not cleaned up.
+[Info   : Unity Log] Changed level to: Level - Wizard
+[Info   : Unity Log] Changed level to: Level - Shop
+[Info   : Unity Log] Changed level to: Level - Lobby
+[Warning: Unity Log] Received RPC "GrabLinkRPC" for viewID 527 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "GrabPointSyncRPC" for viewID 527 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "ToggleItemRPC" for viewID 529 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'Obikenwanobi' Maybe GO was destroyed but RPC not cleaned up.
+[Info   : Unity Log] Changed level to: Level - Arctic
+[Warning: Unity Log] Received RPC "SetPositionRPC" for viewID 630 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "SetPositionRPC" for viewID 630 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'Obikenwanobi' Maybe GO was destroyed but RPC not cleaned up.
+[Info   : Unity Log] Changed level to: Level - Shop
+[Info   : Unity Log] Changed level to: Level - Lobby
+[Warning: Unity Log] Received RPC "GrabLinkRPC" for viewID 728 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "GrabPointSyncRPC" for viewID 728 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "GrabLinkRPC" for viewID 730 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'Obikenwanobi' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "GrabPointSyncRPC" for viewID 730 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'Obikenwanobi' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "GrabLinkRPC" for viewID 730 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Warning: Unity Log] Received RPC "GrabPointSyncRPC" for viewID 730 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'ClirkRendalf' Maybe GO was destroyed but RPC not cleaned up.
+[Info   : Unity Log] Changed level to: Level - Manor
+[Info   : Unity Log] Changed level to: Level - Shop
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] OnLeaderStateChanged to Disconnecting
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] OnLeaderStateChanged to Disconnected
+[Info   : Unity Log] [2025-04-26T04:48:17] [Debug] [PunVoiceClient] [PunVoiceClient(Clone)] FollowLeader for state Disconnected
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] OnRemoteVoiceInfo: RemoteVoiceRemoved [p#1 v#2 c#0 i:{c=AudioOpus f=48000 ch=1 d=20000 s=960 b=30000 w=0 h=0 fps=0 kfi=0 ud=1006}]
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [Speaker] [Remote p#1 v#2] OnRemoteVoiceRemove [p#1 v#2 c#0 i:{c=AudioOpus f=48000 ch=1 d=20000 s=960 b=30000 w=0 h=0 fps=0 kfi=0 ud=1006}]
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [Speaker] [Remote p#1 v#2] StopPlayback
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] OnRemoteVoiceInfo: RemoteVoiceRemoved [p#2 v#2 c#0 i:{c=AudioOpus f=48000 ch=1 d=20000 s=960 b=30000 w=0 h=0 fps=0 kfi=0 ud=2006}]
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [Speaker] [Remote p#2 v#2] OnRemoteVoiceRemove [p#2 v#2 c#0 i:{c=AudioOpus f=48000 ch=1 d=20000 s=960 b=30000 w=0 h=0 fps=0 kfi=0 ud=2006}]
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [Speaker] [Remote p#2 v#2] StopPlayback
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] OnRemoteVoiceInfo: RemoteVoiceRemoved [p#3 v#2 c#0 i:{c=AudioOpus f=48000 ch=1 d=20000 s=960 b=30000 w=0 h=0 fps=0 kfi=0 ud=3006}]
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [Speaker] [Remote p#3 v#2] OnRemoteVoiceRemove [p#3 v#2 c#0 i:{c=AudioOpus f=48000 ch=1 d=20000 s=960 b=30000 w=0 h=0 fps=0 kfi=0 ud=3006}]
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [Speaker] [Remote p#3 v#2] StopPlayback
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Remote voices cleared
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] OnVoiceStateChanged from Joined to Disconnecting
+[Info   : Unity Log] [2025-04-26T04:48:17] [Debug] [PunVoiceClient] [PunVoiceClient(Clone)] OnVoiceStateChanged  from Joined to Disconnecting
+[Info   : Unity Log] Disconnected from server for reason ApplicationQuit
+[Info   : Unity Log] Cancelling Steam Auth Ticket...
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [Speaker] [Remote p#3 v#2] OnDestroy
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [Speaker] [Remote p#3 v#2] StopPlayback
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [WebRtcAudioDsp] [Voice(Clone)] Stop
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [AudioChangesHandler] [Voice(Clone)] Unsubscribed from audio in change notifications via Photon plugin.
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [AudioChangesHandler] [Voice(Clone)] Unsubscribed from audio in change notifications via Unity OnAudioConfigurationChanged callback.
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] OnVoiceStateChanged from Disconnecting to Disconnected
+[Info   : Unity Log] [2025-04-26T04:48:17] [Debug] [PunVoiceClient] [PunVoiceClient(Clone)] OnVoiceStateChanged  from Disconnecting to Disconnected
+[Info   : Unity Log] [2025-04-26T04:48:17] [Debug] [PunVoiceClient] [PunVoiceClient(Clone)] FollowLeader for state Disconnected
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [WebRtcAudioDsp] [Voice(Clone)] [PV] WebRTCAudioProcessor: destroying...
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [WebRtcAudioDsp] [Voice(Clone)] [PV] WebRTCAudioProcessor: destroyed
+[Info   : Unity Log] [2025-04-26T04:48:17] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] PunVoiceClient singleton instance is being reset because destroyed.
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [Recorder] [Voice(Clone)] Stopping recording
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [PunVoiceClient] [PunVoiceClient(Clone)] [PV] Local AudioOpus v#2 ch#1 removed
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [Speaker] [Remote p#1 v#2] OnDestroy
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [Speaker] [Remote p#1 v#2] StopPlayback
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [WebRtcAudioDsp] [Voice(Clone)] Stop
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [AudioChangesHandler] [Voice(Clone)] Unsubscribed from audio in change notifications via Photon plugin.
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [AudioChangesHandler] [Voice(Clone)] Unsubscribed from audio in change notifications via Unity OnAudioConfigurationChanged callback.
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [Speaker] [Remote p#2 v#2] OnDestroy
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [Speaker] [Remote p#2 v#2] StopPlayback
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [WebRtcAudioDsp] [Voice(Clone)] Stop
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [AudioChangesHandler] [Voice(Clone)] Unsubscribed from audio in change notifications via Photon plugin.
+[Info   : Unity Log] [2025-04-26T04:48:18] [Info] [AudioChangesHandler] [Voice(Clone)] Unsubscribed from audio in change notifications via Unity OnAudioConfigurationChanged callback.

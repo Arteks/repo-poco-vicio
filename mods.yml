@@ -1,0 +1,89 @@
+- manifestVersion: 1
+  name: BepInEx-BepInExPack
+  authorName: BepInEx
+  websiteUrl: https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/
+  displayName: BepInExPack
+  description: BepInEx pack for Mono Unity games. Preconfigured and ready to use.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1744477713904
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2100
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\cache\BepInEx-BepInExPack\5.4.2100\icon.png
+- manifestVersion: 1
+  name: dig-Minimap
+  authorName: dig
+  websiteUrl: https://thunderstore.io/c/repo/p/dig/Minimap/
+  displayName: Minimap
+  description: Adds a customizable Minimap + allow spectators to see the map!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745279808993
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-MenuLib-2.3.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\dig-Minimap\icon.png
+- manifestVersion: 1
+  name: nickklmao-MenuLib
+  authorName: nickklmao
+  websiteUrl: https://thunderstore.io/c/repo/p/nickklmao/MenuLib/
+  displayName: MenuLib
+  description: A library for creating UI!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745637590044
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 4
+    patch: 0
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\cache\nickklmao-MenuLib\2.4.0\icon.png
+- manifestVersion: 1
+  name: DiabolicalStudios-WidescreenSupport
+  authorName: DiabolicalStudios
+  websiteUrl: https://thunderstore.io/c/repo/p/DiabolicalStudios/WidescreenSupport/
+  displayName: WidescreenSupport
+  description: Widescreen support for R.E.P.O. Better performance then other
+    counterparts. Looking into the stretching issue
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1745279883510
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Administrator\AppData\Roaming\r2modmanPlus-local\REPO\profiles\Default\BepInEx\plugins\DiabolicalStudios-WidescreenSupport\icon.png
